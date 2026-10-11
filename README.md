@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abdelatifmagdi17-netizen/Spex-hub/main/README.md"))(
 -- Spex Pro MM2 Hub (Role ESP, Fast Gun TP, Aimbot, TP Loop, Auto Fire) for Delta
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -441,4 +441,4 @@ RunService.RenderStepped:Connect(function()
             Camera.CFrame = CFrame.new(Camera.CFrame.Position, murdererPart.Position)
         end
     end
-end)
+end))
