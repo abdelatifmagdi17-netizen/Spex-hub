@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abdelatifmagdi17-netizen/Spex-hub/main/spex7.lua"))()
 
 -- Spex Pro MM2 Hub (Role ESP, Fast Gun TP, Aimbot, TP Loop, Auto Fire) for Delta
 local Players = game:GetService("Players")
